@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>IV. Queries resolved</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40057</idno>
+            <idno type="STC">Wing F1667</idno>
+            <idno type="STC">ESTC R17989</idno>
+            <idno type="EEBO-CITATION">11865229</idno>
+            <idno type="OCLC">ocm 11865229</idno>
+            <idno type="VID">50083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50083)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 29:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>IV. Queries resolved</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50083:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb n="1" facs="tcp:50083:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>IV. <hi>Queries Reſolved.</hi>
+            </head>
+            <p n="1">I. <hi>Whether it be lawful to aſſiſt a Prince in the Perſecution of the True Religion?</hi>
+            </p>
+            <q>
+               <p>But if you Bite and Devour one another, take heed that ye be not Conſum<g ref="char:EOLhyphen"/>ed one of another,</p>
+               <bibl>Gal. 5.15.</bibl>
+            </q>
+            <q>
+               <p>Brother goeth to Law with Brother, and that before the <g ref="char:V">Ʋ</g>nbelievers: Now therefore there is utterly a Fault amongſt you, becauſe you go to Law one with another.</p>
+               <bibl>1. Cor. 6.6.</bibl>
+            </q>
+            <p>FRom theſe two Texts it will clearly and naturally follow, That as the Chriſtians of all Ages were ſeparated from, and hated by all the reſt of the World; ſo they were under the ſtricteſt Obligations to have a very great Love and Af<g ref="char:EOLhyphen"/>fection each to other, and to do nothing that might in the leaſt tend to the Ruine, Impoveriſhing or Deſtroying of each other.</p>
+            <p>From hence I infer: That if one Chriſtians going to Law againſt another for the Recovery of his juſt Right, was a Fault, when done before an Unbelieving Judge, that much more was it a Sin to betray a Brother into the Hands of ſuch a Judge, in the Times of Perſecu<g ref="char:EOLhyphen"/>tion for Religion: And it was a greater Fault, yet to draw his Sword againſt a fellow Chriſtian, to aid and aſſiſt a Perſecuting Prince, in the very Act of Perſecuting the Church.</p>
+            <p>
+               <pb n="2" facs="tcp:50083:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 2 -->
+The Biting and Devouring one the other tended more naturally to the conſuming of them, than any Force from thoſe without; and in that lies the Force of the Apoſtolick Caution, which is ſo very plain and ſelf-evident, that it cannot be inforced beyond what it at firſt appears.</p>
+            <p n="2">II. <hi>Whether it be Lawful to Deſert a Perſecuting Prince, when there ſeemes to be no other way to Preſerve the True Religion, or the ſtaying with him may promote the Ruine of it?</hi>
+            </p>
+            <p>I ſay it is Lawful and Neceſſary. <hi>He that loveth Father and Mother more than me, is not worthy of me;</hi> Matth. 10.37. A Child is bound in this Caſe to forſake his Father, a Citizen his City, a Subject his Prince. To this Purpoſe <hi>Tertullian</hi> ap<g ref="char:EOLhyphen"/>plies that Paſſage, <hi>No Man can ſerve two Maſters;</hi>
+               <note place="margin">
+                  <hi>Concilium Arelat. can</hi> 3. <hi>de his qui arma projiciunt in pace, placuit abstinere eos a communion<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 
+                  <q>Thoſe who refuſe to bear Arms when the Church is in Peace, ſhall be Excommunicated.</q> Which ſup<g ref="char:EOLhyphen"/>poſeth they might, or rather ought, to refuſe, in time of Perſecution. Cited by <hi>Grotius, de Jure Belli &amp; Pacis, lib.</hi> 1. <hi>c.</hi> 2. § 9.</note> 
+               <hi>de Corona, c.</hi> 1. And truly, without Doubt; for if my Prince will ſet himſelf in oppoſition to God, and make it his principal buſineſs to deſtroy the Church, and this is notorious and apparent, and not founded on Surmiſes; then I am free from thoſe Obligations to aſſiſt and defend him in that,<note place="margin">
+                  <hi>See</hi> Tertullian de corona, cap. <hi>11. upon which</hi> Rigaltius <hi>hath this Note.</hi> Qui non permittit ut Chriſtianus Ethnico, belligeran<g ref="char:EOLhyphen"/>ti, navaret operam, an permiſſurus est, ut Chri<g ref="char:EOLhyphen"/>stiano, Christianos, hee est fratres perſecutu<g ref="char:EOLhyphen"/>re ſe militem adjungat?</note> and perhaps in any other thing, as long as I ſee him perſiſt in that Courſe. Nay, I were a Perſecutor, if I ſhould any way Aid or Abet him in it. And I could not plead in my own Juſtification, That I was his Subject, and bound to aſſiſt and defend him, when he is perſe<g ref="char:EOLhyphen"/>cuting and deſtroying my Brethren.</p>
+            <p>But then, if by ſtaying with him, and fighting for him, he will be, and continue in a Condition of perſecuting the Church; and on the contrary, my leaving him will diſable him from the other, then I am bound to forſake him, becauſe the not forſaking is a direct aſſiſting and enabling him to perſecute; which I had above proved to be utterly Unlawful.</p>
+            <p n="3">
+               <pb n="3" facs="tcp:50083:2"/>
+               <!-- PDF PAGE 2 -->
+III. <hi>If the Perſecuting Prince be forced to withdraw, or be vanquiſhed and flee, is it lawful to ſubmit to the Lawful Heir of that Prince?</hi>
+            </p>
+            <p>I ſay Yes. No Nation can ſubſiſt long in a ſtate of <hi>Anarchy,</hi> and it is utterly unlawful to procure the Ruine of a Nation which involves in it the Ruine of the <hi>Church;</hi> ſo that if the Perſecuting Prince flee, there muſt be ſome body ſet up in his Place; for with<g ref="char:EOLhyphen"/>out Government no Nation can ſubſiſt.</p>
+            <p>The <hi>Roman</hi> Empire was Elective, and the Chriſtians of the firſt Ages never concern'd themſelves for thoſe Princes which perſecuted them, but ſubmitted and paid the ſame Obedience to all their Suc<g ref="char:EOLhyphen"/>ceſſors. So when <hi>Valerian</hi> became a Perſecuter of the Church, and was after that taken Priſoner by <hi>Sapores</hi> King of <hi>Perſia,</hi> they ſubmit<g ref="char:EOLhyphen"/>ted to <hi>Galienus</hi> his Son. <hi>Etiam hoc ei acceſſit ad poenam, quod cum filium haberet Imperatorem captivitatis ſuae, tamen ac ſervitutis extremae non in<g ref="char:EOLhyphen"/>venit ultorem, nec omnino repetitus eſt;</hi> ſaith <hi>Lactantius, De Mortibus Perſecutorum. He had this added to his puniſhment, that though he had a Son who ſucceeded him in the Empire, yet the extream Slavery and Capti<g ref="char:EOLhyphen"/>vity in which he lived was never revenged; nor was he ever demanded of his Enemies.</hi> Though this was a Fault in his Son, yet it was none in the Chriſtians who had been his Subjects. And after this, when <hi>Lici<g ref="char:EOLhyphen"/>nius</hi> did the ſame thing, and was taken Priſoner by <hi>Conſtantine</hi> the Great, and confined to <hi>Theſſalonica,</hi> in the Year 324. we find no mention made of any ſcruple the Primitive Chriſtians, who were his Subjects, made to ſubmit to their Deliverer, though <hi>Licinius</hi> lived a year after this in <hi>Greece.</hi>
+            </p>
+            <p>The Fathers of the Council of <hi>Nice,</hi> many of which had been his Subjects, in their Eleventh Canon, have theſe Words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>as it happened under the Tyranny of</hi> Licinius; It is not improbable he was then living: yet they made no ſcruple to call him a <hi>Tyrant,</hi> becauſe he perſecuted the Church of God. And I leave it to any rational man to judge, whether the Fathers of this Council would have ever thought themſelves bound in Conſcience to have recall'd this Tyrant to the <hi>Throne,</hi> and to have ſuffered under him whatever miſchief he could have inflicted upon them, only be<g ref="char:EOLhyphen"/>cauſe he was once their lawful Prince. Or did any of their Ance<g ref="char:EOLhyphen"/>ſtors ever Addreſs to <hi>Galien</hi> to redeem, or demand <hi>Valerian</hi> his Fa<g ref="char:EOLhyphen"/>ther,
+<pb n="4" facs="tcp:50083:3"/>
+               <!-- PDF PAGE 3 -->
+though he lived in a moſt intolerable Slavery under the King of <hi>Perſia?</hi>
+            </p>
+            <p>But we are ſworn not only to the King in Being, but to his Heirs and lawful Succeſſors; and therefore we are bound to ſet up the next <hi>Lawful Heir,</hi> and no body elſe, even by that Oath; but then we are not bound to recal one whom we have been neceſſitated not to aſſiſt, that we might not be acceſſory by ſo doing, to the Ruine of our Church.</p>
+            <p n="4">IV. <hi>Whether it be lawful to reſiſt ſuch a Prince, in caſe he ſhould attempt to recover his Throne by Force?</hi>
+            </p>
+            <p>I ſay Yes: If his Empire were not determined by his Flight, it were not lawful to ſubmit to his Heir, becauſe no man can ſerve two Maſters at once. But after I have once ſubmitted to the other, I am then become his Subject, and he my lawful Sovereign; and therefore I am under the ſame obligation to defend the Succeſſor, as I was before to defend the Predeceſſor, that is, againſt all men who unjuſtly invade him.</p>
+            <p>If therefore a Prince, by perſecuting the True Religion, makes himſelf the Enemy of God, and of his <hi>Church,</hi> and the Juſtice of God overtake him, and he is driven out of his Countrey, by what means ſoever it happens; that Prince has by it loſt all his Right to the Obedience of his Chriſtian Subjects, and they not only may, but muſt ſubmit to another, and defend him too, even againſt the for<g ref="char:EOLhyphen"/>mer, if he ſhall attempt to put himſelf into a condition to renew and finiſh his former Perſecution.</p>
+            <p>Without this, the ſtate of the Chriſtian were the worſt of all others; for he were bound to ſuffer the Rages of Perſecutors, when he need not; to help them to ruine the Church, when they could not do it without him; to recall them when they were forced to flee; to ſet them up again when God hath caſt them from their Thrones; In ſhort, to promote the Ruine of the Church as far as in him li<g ref="char:EOLhyphen"/>eth.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50083:3"/>
+            <!-- PDF PAGE 3 -->
+         </div>
+      </body>
+   </text>
+</TEI>
